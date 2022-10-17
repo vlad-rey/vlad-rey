@@ -11,11 +11,25 @@
     I have <code><b>2+ years</b></code> experience as Web-developer and <code><b>2 years</b></code> experience as UX&UI
     designer
   </p>
+  <br/>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-rey&theme=dark&hide_border=false"
+      alt="Github stats" />
+      </div>
+      <h3 align="center">Socials:</h3>
+  <div style="display: flex;" align="center">
+    <a href="https://behance.net/vlad-rey">
+      <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vlad-rey"
+        alt="Behance" />
+    </a>
+    <a href="https://linkedin.com/in/vlad-rey">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </div>
   <br />
-
-  <h2 align="center">
+  <h1 align="center">
     Tech Stack:
-  </h2>
+  </h1>
   <h3 align="center">Technologies:</h3>
   <div style="display: flex;" align="center">
     <img alt="JavaScript"
@@ -57,25 +71,4 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
     <img src="https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black" alt="Sketch" />
   </div>
-  <br />
-
-  <h3 align="center"> Socials:</h3>
-  <div style="display: flex;" align="center">
-    <a href="https://behance.net/vlad-rey">
-      <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vlad-rey"
-        alt="Behance" />
-    </a>
-    <a href="https://linkedin.com/in/vlad-rey">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </div>
-  <br />
-
-  <h3 align="center"> GitHub Stats:</h3>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-rey&theme=dark&hide_border=false"
-      alt="Github stats" />
-  </div>
-
 </body>
