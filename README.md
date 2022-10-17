@@ -65,15 +65,6 @@
       <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vlad-rey"
         alt="Behance" />
     </a>
-    <a href="htttps://discord.gg/Vlad-Rey#8905">
-      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://facebook.com/vls.rey">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://instagram.com/_vlad.rey">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
     <a href="https://linkedin.com/in/vlad-rey">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
