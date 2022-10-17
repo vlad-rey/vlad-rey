@@ -52,7 +52,6 @@
   <br />
 
   <h3 align="center"> Features:</h3>
-  <br />
   <div style="display: flex;" align="center">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux" />
@@ -64,7 +63,6 @@
   <br />
 
   <h3 align="center"> Prototyping tools:</h3>
-  <br />
   <div style="display: flex;" align="center">
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6"
       alt="Adobe XD" />
