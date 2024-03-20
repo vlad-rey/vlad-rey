@@ -8,14 +8,10 @@
     <br />
     Front-End <code>React\NextJS</code> Developer from Ukraine 💙💛
     <br />
-    I have <code><b>2+ years</b></code> experience as Web-developer and <code><b>2 years</b></code> experience as UX&UI
+    I have <code><b>3+ years</b></code> experience as Web-developer and <code><b>2 years</b></code> experience as UX&UI
     designer
   </p>
   <br/>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vlad-rey&theme=dark&hide_border=false"
-      alt="Github stats" />
-      </div>
       <h3 align="center">Socials:</h3>
   <div style="display: flex;" align="center">
     <a href="https://behance.net/vlad-rey">
