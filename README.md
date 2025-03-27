@@ -8,7 +8,7 @@
     <br />
     Front-End <code>React\NextJS</code> Developer from Ukraine 💙💛
     <br />
-    I have <code><b>3+ years</b></code> experience as Web-developer and <code><b>2 years</b></code> experience as UX&UI
+    I have <code><b>4+ years</b></code> experience as Web-developer and <code><b>2 years</b></code> experience as UX&UI
     designer
   </p>
   <br/>
