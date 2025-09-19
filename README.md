@@ -22,7 +22,7 @@
   <h1 align="center">
     Tech Stack:
   </h1>
-  <h3 align="center">Technologies:</h3>
+  <h3 align="center">Core Stack:</h3>
   <div style="display: flex;" align="center">
     <img alt="JavaScript"
       src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
@@ -33,7 +33,7 @@
   </div>
   <br />
 
-  <h3 align="center">Frameworks:</h3>
+  <h3 align="center">Key Platforms:</h3>
   <div style="display: flex;" align="center">
     <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white " alt="Next JS" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -43,7 +43,7 @@
   </div>
   <br />
 
-  <h3 align="center"> Features:</h3>
+  <h3 align="center"> Infrastructure & Tools:</h3>
   <div style="display: flex;" align="center">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux" />
