@@ -26,12 +26,12 @@
     </animated-image> I’m <b><i>Vlad</i></b>
   </h1>
   <br />
-  <p align="center">
+  <h3 align="center">
     Fullstack  <code>TYPESCRIPT || JAVASCRIPT</code> Developer from Ukraine 💙💛
     <br />
     I have <code><b>5+ years</b></code> experience as Web-developer and <code><b>2 years</b></code> experience as UX&UI
     designer
-  </p>
+  </h3>
   <br/>
       <h3 align="center">Socials:</h3>
   <div style="display: flex;" align="center">
