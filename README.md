@@ -14,10 +14,6 @@
   <br/>
       <h3 align="center">Socials:</h3>
   <div style="display: flex;" align="center">
-    <a href="https://behance.net/vlad-rey">
-      <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vlad-rey"
-        alt="Behance" />
-    </a>
     <a href="https://linkedin.com/in/vlad-rey">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
