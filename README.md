@@ -11,7 +11,6 @@
     I have <code><b>5+ years</b></code> experience as Web-developer and <code><b>2 years</b></code> experience as UX&UI
     designer
   </p>
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vlad-rey&show_icons=true&theme=tokyonight)
   <br/>
       <h3 align="center">Socials:</h3>
   <div style="display: flex;" align="center">
