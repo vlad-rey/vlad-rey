@@ -27,7 +27,7 @@
   </h1>
   <br />
   <p align="center">
-    Front-End <code>React\NextJS</code> Developer from Ukraine 💙💛
+    Fullstack  <code>TYPESCRIPT || JAVASCRIPT</code> Developer from Ukraine 💙💛
     <br />
     I have <code><b>5+ years</b></code> experience as Web-developer and <code><b>2 years</b></code> experience as UX&UI
     designer
