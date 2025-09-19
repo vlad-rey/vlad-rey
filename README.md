@@ -24,9 +24,6 @@
         </span>
       </span>
     </animated-image> I’m <b><i>Vlad</i></b>
-      </h1>
-  <h1 align="center">
-    Info
   </h1>
   <br />
   <p align="center">
