@@ -141,6 +141,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   </div>
   <br/>
-  <img src="https://raw.githubusercontent.com/vlad-rey/vlad-rey/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vlad-rey/vlad-rey/9c5d582308a4c705e749d977744d57899910ed6e/output/snake.svg" alt="Snake animation" />
 
 </body>
