@@ -14,9 +14,23 @@
   <br/>
       <h3 align="center">Socials:</h3>
   <div style="display: flex;" align="center">
-    <a href="https://linkedin.com/in/vlad-rey">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+ <div align="center">
+  <a href="https://www.linkedin.com/in/vlad-rey/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto="vls.sidorow@gmail.com"" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://t.me/vlad_rey" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="56" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=380996449767" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="56" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.behance.net/vlad-rey" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="56" height="40" alt="behance logo"  />
+  </a>
+</div>
   </div>
   <br />
   <h1 align="center">
