@@ -4,7 +4,6 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/fa3b9292d0f2bfe0e30c0d8b0e0fb7ad611ffdf5452a610f621dbf137c3f5a5c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" target="_blank">
         <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/fa3b9292d0f2bfe0e30c0d8b0e0fb7ad611ffdf5452a610f621dbf137c3f5a5c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="50" height="50"></canvas></span></a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" hidden=""></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
@@ -23,7 +22,8 @@
             </svg>
           </a>
         </span>
-      </span></animated-image> I’m <b><i>Vlad</i></b>
+      </span>
+    </animated-image> I’m <b><i>Vlad</i></b>
       </h1>
   <h1 align="center">
     Info
